@@ -5,6 +5,6 @@ Homework2
 
 https://youtu.be/IL0iBT1RvV8
 
-https://img.youtube.com/vi/CkGW5W4eE6I/0.jpg
+[![](https://img.youtube.com/vi/CkGW5W4eE6I/0.jpg)(https://www.youtube.com/watch?v=CkGW5W4eE6I)
 
 
